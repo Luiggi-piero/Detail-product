@@ -5,8 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Bootstrap
 ### HTML5 CSS3
+___
 - :fire: luiggiyantas@gmail.com
-- :boom:[Mi segundo repositorio](https://github.com/LuiggiCF/SistemaEstacionamiento "LuiggiCF")
+- :octocat:[Mi segundo repositorio](https://github.com/LuiggiCF/SistemaEstacionamiento "LuiggiCF")
+- :globe_with_meridians: <https://www.facebook.com/yantas.luiggi>
 ___
 
 ## Development server
