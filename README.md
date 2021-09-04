@@ -1,6 +1,13 @@
-# InfoProducto
+# Vista detalle del producto y comentarios
 
+![detalle-producto](https://user-images.githubusercontent.com/86317658/132078292-dbebb9a7-58c3-48b7-b4e9-145500a6cb70.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+
+### Bootstrap
+### HTML5 CSS3
+- :fire: luiggiyantas@gmail.com
+- :boom:[Mi segundo repositorio](https://github.com/LuiggiCF/SistemaEstacionamiento "LuiggiCF")
+___
 
 ## Development server
 
