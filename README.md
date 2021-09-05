@@ -3,7 +3,7 @@
 ![detalle-producto](https://user-images.githubusercontent.com/86317658/132078292-dbebb9a7-58c3-48b7-b4e9-145500a6cb70.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 
-### Bootstrap
+### Bootstrap FONTAWESOME
 ### HTML5 CSS3
 ___
 - :fire: luiggiyantas@gmail.com
